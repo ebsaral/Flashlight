@@ -1,0 +1,9 @@
+{
+	"name": "trailer",
+	"displayName": "Movielala Trailers",
+	"description": "Search for movie trailers",
+	"examples": ["trailer Phantom of the Opera"],
+	"categories": ["Media"],
+	"creator_name": "Emin Bugra Saral from MovieLaLa",
+	"creator_url": "http://www.movielala.com/"
+}
